@@ -28,7 +28,7 @@ def iterate_through_hash
   
     cities = ["Atlanta", "Sydney", "Athens", "Beijing", "London"]
     year = [ 1996 ,  2000 ,  2004 ,  2008 ,2012]
-    summer_olympics.each do |o|
+    summer_olympics.each do |combine|
   end
     puts "The "
 iterate_through_hash
