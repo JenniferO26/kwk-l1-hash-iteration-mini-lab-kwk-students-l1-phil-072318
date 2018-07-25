@@ -26,7 +26,7 @@ def iterate_through_hash
   # and puts each key value pair within the phrase "The _____ summer olympics took place in _____."
  
   summer_olympics.each do |olympics|
-    cities = ["Sydney", "Athens", "Beijing", "London"]
+    cities = ["Atlanta", "Sydney", "Athens", "Beijing", "London"]
     year = [ 1996 ,  2000 ,  2004 ,  2008 ,2012]
   end
     puts "The "
