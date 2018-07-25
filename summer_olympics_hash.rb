@@ -24,10 +24,11 @@ end
 def iterate_through_hash
   # Implement this method so that it iterates over the hash created in add_a_key_value_pair
   # and puts each key value pair within the phrase "The _____ summer olympics took place in _____."
+ 
   summer_olympics.each do |olympics|
     cities = ["Sydney", "Athens", "Beijing", "London"]
-    
-  
+    year = [ 1996 ,  2000 ,  2004 ,  2008 ,2012]
+  end
     puts "The "
 iterate_through_hash
 def iterate_through_keys
